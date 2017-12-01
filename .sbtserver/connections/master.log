@@ -1,0 +1,13 @@
+New log file opened at Sat Dec 24 11:20:18 IST 2016 by 2899@spineor-System-Product-Name
+Taking next connection to: 34912
+New client attempting to connect on port: 55278-34912
+  Address = /127.0.1.1:34912
+This client on port 55278 has uuid 31d5f11b-cf7c-48a8-a7fe-73fe1552415f configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-31d5f11b-cf7c-48a8-a7fe-73fe1552415f
+Taking next connection to: 34912
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 2899@spineor-System-Product-Name logs at Sat Dec 24 11:23:18 IST 2016, goodbye.
